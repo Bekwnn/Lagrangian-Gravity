@@ -1,0 +1,3 @@
+[submodule "lib/atlas"]
+	path = lib/atlas
+	url = https://github.com/marovira/atlas.git
