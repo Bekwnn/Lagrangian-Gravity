@@ -1,0 +1,6 @@
+set(SOURCE_LIST
+	"${ASSIGNMENT_SOURCE_ROOT}/Planet.cpp"
+	"${ASSIGNMENT_SOURCE_ROOT}/PlanetScene.cpp"
+	"${ASSIGNMENT_SOURCE_ROOT}/MayaCamera.cpp"
+	"${ASSIGNMENT_SOURCE_ROOT}/main.cpp"
+	PARENT_SCOPE)
