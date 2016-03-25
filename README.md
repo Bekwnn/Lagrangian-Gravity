@@ -1,2 +1,5 @@
-# Lagrangian-Rollercoaster
-A 2D pendulum rolling and rotating along a track in 3D space using Lagrangian mechanics.
+# Lagrangian Gravity
+
+A 2D gravity simulation in polar coordinates derived from the euler-lagrange equation.
+
+One moon is affected gravitationally by a stationary planet, orbitting or being slingshotted out by it.
