@@ -1,7 +1,9 @@
 set(SHADER_SOURCE
 	# Shaders go here
-	"${ASSIGNMENT_SHADER_ROOT}/BasicShader.vert"
-	"${ASSIGNMENT_SHADER_ROOT}/BasicShader.frag"
+	"${ASSIGNMENT_SHADER_ROOT}/ball.vs.glsl"
+	"${ASSIGNMENT_SHADER_ROOT}/ball.fs.glsl"
+	"${ASSIGNMENT_SHADER_ROOT}/grid.vs.glsl"
+	"${ASSIGNMENT_SHADER_ROOT}/grid.fs.glsl"
 )
 
 # Tell the compiler/IDE to treat the shader files as headers and ignore them
