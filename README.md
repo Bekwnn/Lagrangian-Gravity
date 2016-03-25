@@ -1,2 +1,3 @@
-# Lagrangian-Rollercoaster
-A 2D pendulum rolling and rotating along a track in 3D space using Lagrangian mechanics.
+dist 25 for moon
+mass of moon 1
+mass of stationary body 1e15
